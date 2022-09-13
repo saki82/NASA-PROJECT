@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "jest": {
-    "testEnvironment": "Node"
+    "testEnvironment": "node"
   },
   "dependencies": {
     "cors": "^2.8.5",
